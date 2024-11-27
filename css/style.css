@@ -240,12 +240,12 @@ button {
 .navbar-light .navbar-nav .nav-link.active,
 .navbar-light .navbar-nav .nav-link.show,
 .navbar-light .navbar-nav .show>.nav-link {
-    color: #f76d37;
+    color: #37f737;
 }
 
 .navbar-light .navbar-nav .nav-link:focus,
 .navbar-light .navbar-nav .nav-link:hover {
-    color: #f76d37;
+    color: #37f737;
 }
 
 .navbar {
@@ -259,7 +259,9 @@ button {
     color: #fff;
 }
 
-.logo {}
+.logo {
+    height: 45px;
+}
 
 /* header section end */
 
@@ -326,7 +328,7 @@ button {
 }
 
 .learnmore_bt a:hover {
-    background-color: #f76d37;
+    background-color: #22a322;
     color: #fff;
 }
 
@@ -361,7 +363,7 @@ button {
 #main_slider .carousel-control-prev:focus,
 #main_slider .carousel-control-prev:hover {
     color: #ffffff;
-    background-color: #f76d37;
+    background-color: #22a322;
 }
 
 /* banner section end */
@@ -383,7 +385,7 @@ button {
     width: 100%;
     float: left;
     font-size: 40px;
-    color: #f76d37;
+    color: #37f737;
     font-weight: bold;
     text-transform: uppercase;
 }
@@ -424,7 +426,7 @@ button {
 
 .read_bt a:hover {
     color: #ffffff;
-    background-color: #f76d37;
+    background-color: #22a322;
 }
 
 /* about section end */
@@ -442,7 +444,7 @@ button {
     float: left;
     text-align: center;
     font-size: 40px;
-    color: #f76d37;
+    color: #37f737;
     font-weight: bold;
 }
 
@@ -525,12 +527,12 @@ img.image {
 }
 
 .seemore_bt a:hover {
-    background-color: #f76d37;
+    background-color: #22a322;
     color: #ffffff;
 }
 
 a:hover {
-    color: #f76d37;
+    color: #37f737;
     text-decoration: underline;
 }
 
@@ -541,7 +543,7 @@ a:hover {
 .services_section {
     width: 100%;
     float: left;
-    background-image: url(../images/services-bg.png);
+    background-image: url(../images/services-bg.jpg);
     height: auto;
     padding-bottom: 100px;
     background-attachment: fixed;
@@ -598,8 +600,8 @@ a:hover {
 
 .box_main {
     width: 100%;
-    background-color: #f76d37;
-    padding: 40px 30px;
+    background-color: #54c454;
+    padding: 40px 50px;
     box-shadow: 0px 0px 18px -6px;
 }
 
@@ -664,7 +666,7 @@ a:hover {
 
 .readmore_bt a:hover {
     color: #ffffff;
-    background-color: #f76d37;
+    background-color: #37f737;
 }
 
 /* services section end */
@@ -680,7 +682,7 @@ a:hover {
     width: 100%;
     float: left;
     font-size: 40px;
-    color: #f76d37;
+    color: #37f737;
     font-weight: bold;
     font-family: 'Poppins', sans-serif;
 }
@@ -734,7 +736,7 @@ a:hover {
     width: 100%;
     float: left;
     font-size: 24px;
-    color: #f76d37;
+    color: #37f737;
     text-transform: uppercase;
     padding-left: 100px;
     font-weight: bold;
@@ -771,7 +773,7 @@ a:hover {
 }
 
 .carousel-indicators .active {
-    background-color: #f76d37;
+    background-color: #22a322;
 }
 
 /* client section end */
@@ -788,7 +790,7 @@ a:hover {
     float: left;
     font-size: 40px;
     text-align: center;
-    color: #f76d37;
+    color: #37f737;
     font-weight: bold;
 }
 
@@ -800,7 +802,7 @@ a:hover {
 .mail_section {
     width: 100%;
     float: left;
-    background-image: url(../images/img-9.png);
+    background-image: url(../images/img-9.jpeg);
     height: auto;
     padding: 23px 70px;
     background-repeat: no-repeat;
@@ -855,7 +857,7 @@ a:hover {
     text-align: center;
     font-size: 16px;
     color: #ffffff;
-    background-color: #d33a11;
+    background-color: #22a322;
     padding: 15px 50px 12px 50px;
     border-radius: 30px;
     display: block;
@@ -863,7 +865,7 @@ a:hover {
 
 .main_bt a {
     color: #ffffff;
-    background-color: #d33a11;
+    background-color: #22a322;
 }
 
 .main_bt a:hover {
@@ -923,7 +925,7 @@ a:hover {
 }
 
 .footer_menu li a:hover {
-    color: #f76d37;
+    color: #37f737;
 }
 
 .dummy_text {
@@ -955,7 +957,7 @@ a:hover {
 }
 
 .location_text li a:hover {
-    color: #f76d37;
+    color: #37f737;
 }
 
 .padding_left_10 {
@@ -988,7 +990,7 @@ a:hover {
 }
 
 .copyright_text a:hover {
-    color: #f76d37;
+    color: #37f737;
 }
 
 
